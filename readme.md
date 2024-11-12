@@ -1,0 +1,1 @@
+A multi-agent debate simulator, created and presented [at a workshop held at TMLS](https://github.com/AI-Maker-Space/TMLS-OSS-AGENTS).
